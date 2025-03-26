@@ -4,7 +4,7 @@ import zipfile
 OUTPUT_ZIP = "FoodRecipeApp_Package.zip"
 FILES_TO_INCLUDE = [
     "FoodRecipeApp.exe",
-    "README.txt",
+    "README.md",
     'food_image_to_recipe.py',
     'bundle_models.py',
     'check_classifier.py',
