@@ -1,4 +1,3 @@
-# --- README.txt ---
 Food Image to Recipe Application
 ==================================
 
